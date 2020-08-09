@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- Look here's a list of things
+- I like to do things
